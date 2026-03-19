@@ -1,5 +1,5 @@
 # NYC Crime Spatiotemporal Prediction
-### IST 495 Capstone — Spring 2026
+### DS340W Capstone — Spring 2026
 
 ---
 
