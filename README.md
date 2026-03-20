@@ -1,5 +1,5 @@
 # NYC Crime Spatiotemporal Prediction
-### DS340W Capstone — Spring 2026
+### IST 495 Capstone — Spring 2026
 
 ---
 
@@ -25,7 +25,10 @@ This project adapts the **Informer + ST-GCN** framework from Fan et al. (2025) �
 | **Coverage** | 77 NYC Police Precincts |
 | **External Features** | Weather (rp5.ru / NOAA), U.S. Holiday Calendar |
 
-> ⚠️ If the dataset file exceeds GitHub's 100MB limit, download it directly from [NYC Open Data](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i).
+> 📁 Dataset is too large to host on GitHub directly. Access it here:
+> **[Google Drive — Project Data Folder](https://drive.google.com/drive/u/0/folders/1JiRXj1JGuZAQ91Tq97K9XRDws_BA_Tg7)**
+>
+> Original source: [NYC Open Data — NYPD Complaint Data Historic](https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i)
 
 ---
 
