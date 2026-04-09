@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+geopandas
+sodapy
+openmeteo-requests
+requests-cache
+retry-requests
+statsmodels
+networkx
+shapely
