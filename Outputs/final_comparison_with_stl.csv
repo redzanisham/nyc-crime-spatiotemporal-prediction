@@ -1,0 +1,7 @@
+Model,Assault MAE,Robbery MAE,Criminal Damage MAE,Theft MAE
+Linear Regression,1.53,0.6,1.45,1.8
+Ridge Regression,1.53,0.6,1.45,1.8
+Random Forest,1.58,0.62,1.72,1.83
+LSTM,2.47,0.62,1.83,4.41
+Informer+ST-GCN (Original),1.59,0.61,1.51,2.03
+Informer+ST-GCN + STL (Ours),1.65,0.6,1.52,1.92

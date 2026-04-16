@@ -1,0 +1,25 @@
+Model,Crime Type,MAE,RMSE,R2
+Linear Regression,assault,1.53,2.11,0.41
+Linear Regression,criminal_damage,1.45,3.68,0.13
+Linear Regression,robbery,0.6,0.83,0.23
+Linear Regression,theft,1.8,2.36,0.51
+Ridge Regression,assault,1.53,2.11,0.41
+Ridge Regression,criminal_damage,1.45,3.69,0.13
+Ridge Regression,robbery,0.6,0.83,0.23
+Ridge Regression,theft,1.8,2.36,0.51
+Random Forest,assault,1.58,2.21,0.35
+Random Forest,criminal_damage,1.72,5.3,-0.8
+Random Forest,robbery,0.62,0.84,0.21
+Random Forest,theft,1.83,2.39,0.5
+LSTM,assault,2.47,3.55,-0.67
+LSTM,criminal_damage,1.86,4.28,-0.18
+LSTM,robbery,0.64,1.02,-0.16
+LSTM,theft,4.4,5.48,-1.65
+Informer+ST-GCN,assault,1.59,2.22,0.35
+Informer+ST-GCN,criminal_damage,1.51,3.72,0.11
+Informer+ST-GCN,robbery,0.61,0.84,0.21
+Informer+ST-GCN,theft,2.03,2.61,0.4
+Informer+ST-GCN + STL (Ours),assault,1.65,2.3,0.3
+Informer+ST-GCN + STL (Ours),criminal_damage,1.52,3.73,0.11
+Informer+ST-GCN + STL (Ours),robbery,0.6,0.83,0.23
+Informer+ST-GCN + STL (Ours),theft,1.92,2.46,0.47
