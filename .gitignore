@@ -1,0 +1,17 @@
+# Data files (too large for GitHub)
+*.csv
+*.npy
+*.pth
+*.geojson
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab
+.cache/
