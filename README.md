@@ -62,9 +62,6 @@ nyc-crime-spatiotemporal-prediction/
 ├── paper/                    # Final research paper
 │   └── Final_Paper.docx
 │
-├── presentation/             # Conference presentation
-│   └── Final_Conference_Presentation.pptx
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
