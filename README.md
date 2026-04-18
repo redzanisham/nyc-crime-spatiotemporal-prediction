@@ -72,7 +72,7 @@ nyc-crime-prediction/
 │   └── final_comparison_with_stl.csv
 │
 ├── paper/
-│   └── DS340_Final_Paper.docx
+│   └── Final_Paper.docx
 │
 ├── README.md
 └── requirements.txt
