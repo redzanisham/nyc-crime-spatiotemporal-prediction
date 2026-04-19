@@ -60,7 +60,7 @@ nyc-crime-spatiotemporal-prediction/
 │   └── final_comparison_with_stl.csv
 │
 ├── paper/                    # Final research paper
-│   └── Final_Paper.docx
+│   └── Crime Spatiotemporal Prediction Method Integrating Informer and ST-GCN with STL Decomposition.docx
 │
 ├── README.md
 ├── requirements.txt
